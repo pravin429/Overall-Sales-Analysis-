@@ -1,0 +1,2 @@
+# Overall-Sales-Analysis-
+Created overall sales and customer behavior dashboard of the company  data.what type of customer was there bases on there product buying fashion they was distributed on the basis class(class 1,2,3). What is sales in weekend or weekdays on that basis they are classified. calculated and compare sales in current year vs last year sales  and visualise in cluster column chart .some slicer for years to see what is sales in weekdays &amp; weekend sales in that respected year.some card so show overall sales, total profit,total revenue,profit margin
